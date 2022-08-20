@@ -1,0 +1,13 @@
+name: ss-dashboard
+title:
+username:
+account: uthgui-kennedy-muriuki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5876377
+bundleId: 5959398
+url: https://uthgui-kennedy-muriuki.shinyapps.io/ss-dashboard/
+when: 1653905147.15629
+lastSyncTime: 1653905147.15629
+asMultiple: FALSE
+asStatic: FALSE
